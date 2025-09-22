@@ -7,5 +7,8 @@ Nombre Completo:Jimenez Martinez Neyda Nahomi
 Correo Electronico:[23308060610175@cetis61.edu.mx]
 Institucion:[CETis61]
 
-2. Rangel Palacios Brisa
+#### Nombre completo:Rangel Palacios Brisa
+##### correo Electronico:[23308060610256@cetis61.edu.mx]
+###### Institucion:[CETis61]
+<img width="200" height="200" alt="foto 2" src="https://github.com/user-attachments/assets/75f5682b-493a-4d67-97e5-152a3fdfe2ee" />
 
