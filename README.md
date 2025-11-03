@@ -92,3 +92,41 @@ Las tres apps analizadas son:
 - Planificador de comidas, listas de compra y recetas en la versión prémium.  
 - Integración con múltiples dispositivos/apps del ecosistema de salud/fitness.
 ![Gráfico o imagen relacionada con el análisis de MyFitnessPal](imagenes/analisis-myfitnesspal.png)
+
+---
+
+### FatSecret
+
+#### Funcionalidades principales
+- Contador de calorías, registro de alimentos con base de datos verificada (>1.9 millones de alimentos) para seguimiento preciso.  
+- Escáner de código de barras para ingreso rápido de alimentos.  
+- Registro de macronutrientes (y agua en la versión Premium), progresos en peso y gráficos de tendencia.  
+- Comunidad de soporte, retos y logros (“achievements & streaks”) para motivación del usuario.  
+- Versión Premium que añade funcionalidades como **“Smart Food Scan”** (reconocimiento de alimentos a partir de foto), planificador de comidas, etc.
+
+#### Experiencia de usuario
+- Interfaz relativamente sencilla, claro enfoque en conteo de calorías y macros, lo que la hace accesible para muchos usuarios.  
+- Buen soporte de comunidad y motivación social, lo que favorece adherencia.  
+- Algunas reseñas señalan que la base de datos, aunque grande, puede presentar inconsistencias en algunos alimentos o marcas menos comunes.
+
+#### Modelo de negocio
+- Versión gratuita con las funciones básicas suficientes para registro de alimentos, macros y peso.  
+- Versión Premium mediante suscripción que desbloquea funcionalidades premium (Smart Food Scan, planificador, sin anuncios, etc.).
+
+#### Puntos fuertes
+- Base de datos verificada de alimentos (1.9 millones), lo cual aporta precisión.  
+- Escáner de código de barras y registro bastante rápido.  
+- Comunidad integrada como motivador social.  
+- Buena opción “gratuita” para muchas funcionalidades básicas sin necesidad de pagar.
+
+#### Debilidades
+- Funciones avanzadas **premium** requieren suscripción; algunos usuarios sienten que funcionalidades importantes están bloqueadas.  
+- Poca visibilidad de características innovadoras fuera del conteo de alimentos y macros (aunque están trabajando en ello).  
+- Algunos problemas puntuales de sincronización con otras apps/dispositivos (por ejemplo, usuarios reportan duplicados al sincronizar con Google Fit).
+
+#### Características innovadoras
+- **Smart Food Scan** (foto del plato para estimar porciones y nutrientes) disponible en Premium.  
+- Enfoque en comunidad, logros y motivación diaria (“achievements & streaks”) para fomentar hábitos.  
+- **API de alimentos/verificación de alimentos** para desarrolladores, lo que denota que tienen un backend robusto de datos nutricionales.
+![Gráfico o imagen ilustrativa del análisis de FatSecret](imagenes/fatsecret-analisis.png)
+
