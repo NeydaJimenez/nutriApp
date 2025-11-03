@@ -6,13 +6,13 @@ Hacer saber a la comunidad como cuidarse de manera saludable mediante una aplica
 ##### Nombre Completo:Jimenez Martinez Neyda Nahomi
 ###### Correo Electronico:[23308060610175@cetis61.edu.mx]
 ###### Institucion:[CETis61]
-![Nahomi J](descargas/nah.png)
+![Nahomi J](imagenes/nah.png)
 
 
 #### Nombre completo:Rangel Palacios Brisa
 ##### correo Electronico:[23308060610256@cetis61.edu.mx]
 ###### Institucion:[CETis61]
-<img width="200" height="200" alt="foto 2" src="https://github.com/user-attachments/assets/75f5682b-493a-4d67-97e5-152a3fdfe2ee" />
+![Brisa R](imagenes/bri.png)
 
 ###### Analisis de Base de Datos
 
@@ -91,7 +91,7 @@ Las tres apps analizadas son:
 - Logging de comidas mediante escaneo de código de barras o búsqueda rápida.  
 - Planificador de comidas, listas de compra y recetas en la versión prémium.  
 - Integración con múltiples dispositivos/apps del ecosistema de salud/fitness.
-![Gráfico o imagen relacionada con el análisis de MyFitnessPal](imagenes/analisis-myfitnesspal.png)
+![Gráfico o imagen relacionada con el análisis de MyFitnessPal](imagenes/analisis-myfitnesspal.jpg)
 
 ---
 
@@ -163,11 +163,11 @@ Las tres apps analizadas son:
 - Tracking de hasta **84 nutrientes** (vitaminas, minerales) además de macronutrientes.  
 - Sincronización con dispositivos/biométricos para tener vistas integradas de salud (más allá de solo comida).  
 - Diseño orientado tanto a usuario individual como a profesionales de nutrición (dietistas), con funcionalidades de exportación/informe.
-![Gráfico o imagen ilustrativa del análisis de Cronometer](imagenes/cronometer-analisis.png)
+![Gráfico o imagen ilustrativa del análisis de Cronometer](imagenes/cronometer-analisis.jpg)
 
 ---
 ## Tabla Comparativa de Aplicaciones de Nutrición
-![Tabla comparativa o gráfico visual de las aplicaciones](imagenes/tabla-comparativa.png)
+![Tabla comparativa o gráfico visual de las aplicaciones](imagenes/tabla-comparativa.jpg)
 
 ---
 
@@ -182,13 +182,13 @@ Descubrir las necesidades reales, frustraciones y expectativas de usuarios poten
 
 ### 1. ¿Cuál es tu principal objetivo al considerar tu nutrición? *
 
-![Gráfico - Objetivo principal de nutrición](imagenes/pregunta1.png)
+![Gráfico - Objetivo principal de nutrición](imagenes/1preg.png)
 
 ---
 
 ### 2. ¿Qué tan seguido piensas o te preocupas por tu alimentación?
 
-![Gráfico - Frecuencia de preocupación por la alimentación](imagenes/pregunta2.png)
+![Gráfico - Frecuencia de preocupación por la alimentación](imagenes/2preg.png)
 
 ---
 
@@ -196,13 +196,13 @@ Descubrir las necesidades reales, frustraciones y expectativas de usuarios poten
 
 ### 3. Si has usado apps de nutrición antes, ¿qué fue lo que MÁS te frustró? (Múltiple) *
 
-![Gráfico - Principales frustraciones al usar apps](imagenes/pregunta3.png)
+![Gráfico - Principales frustraciones al usar apps](imagenes/3preg.png)
 
 ---
 
 ### 4. Si has usado apps de nutrición antes, ¿qué fue lo que MÁS te costó? *
 
-![Gráfico - Actividades más difíciles al usar apps](imagenes/pregunta4.png)
+![Gráfico - Actividades más difíciles al usar apps](imagenes/4preg.png)
 
 ---
 
@@ -210,13 +210,16 @@ Descubrir las necesidades reales, frustraciones y expectativas de usuarios poten
 
 ### 5. De estas funcionalidades innovadoras, ¿cuáles te serían MÁS útiles? (Elige top 3) *
 
-![Gráfico - Funcionalidades innovadoras preferidas](imagenes/pregunta5.png)
+![Gráfico - Funcionalidades innovadoras preferidas](imagenes/5preg.png)
 
 ---
 
 ### 6. Imagina que la app pudiera resolver UN solo problema de tu día a día con la comida, ¿cuál sería? *
 
-![Gráfico - Problema principal que la app debería resolver](imagenes/pregunta6.png)
+![Gráfico - Problema principal que la app debería resolver](imagenes/6-1.png)
+![Gráfico - Problema principal que la app debería resolver](imagenes/6-2.png)
+![Gráfico - Problema principal que la app debería resolver](imagenes/6-3.png)
+![Gráfico - Problema principal que la app debería resolver](imagenes/6-4.png)
 
 ---
 
@@ -224,13 +227,13 @@ Descubrir las necesidades reales, frustraciones y expectativas de usuarios poten
 
 ### 7. ¿Tu alimentación sigue algún régimen o tiene alguna restricción específica? (Múltiple) *
 
-![Gráfico - Tipos de régimen alimenticio](imagenes/pregunta7.png)
+![Gráfico - Tipos de régimen alimenticio](imagenes/7preg.png)
 
 ---
 
 ### 8. ¿Cómo te gustaría que la app se adaptara a tus progresos? *
 
-![Gráfico - Preferencias sobre adaptación de la app](imagenes/pregunta8.png)
+![Gráfico - Preferencias sobre adaptación de la app](imagenes/8preg.png)
 
 ---
 
@@ -238,13 +241,13 @@ Descubrir las necesidades reales, frustraciones y expectativas de usuarios poten
 
 ### 9. ¿Qué tipo de motivación funciona mejor para ti? *
 
-![Gráfico - Tipo de motivación preferida](imagenes/pregunta9.png)
+![Gráfico - Tipo de motivación preferida](imagenes/9preg.png)
 
 ---
 
 ### 10. ¿Qué te haría abandonar una app de nutrición? (Múltiple) *
 
-![Gráfico - Motivos de abandono de apps](imagenes/pregunta10.png)
+![Gráfico - Motivos de abandono de apps](imagenes/10preg.png)
 
 ---
 
@@ -252,13 +255,13 @@ Descubrir las necesidades reales, frustraciones y expectativas de usuarios poten
 
 ### 11. Rango de edad *
 
-![Gráfico - Distribución de edades](imagenes/pregunta11.png)
+![Gráfico - Distribución de edades](imagenes/11preg.png)
 
 ---
 
 ### 12. ¿Tienes alguna condición de salud que influya en tu dieta? *
 
-![Gráfico - Condiciones de salud que influyen en la dieta](imagenes/pregunta12.png)
+![Gráfico - Condiciones de salud que influyen en la dieta](imagenes/12preg.png)
 
 ---
 
@@ -266,19 +269,19 @@ Descubrir las necesidades reales, frustraciones y expectativas de usuarios poten
 
 ### 13. ¿En qué momento del día te resulta más difícil mantener tus hábitos alimenticios? *
 
-![Gráfico - Momentos más difíciles para mantener hábitos](imagenes/pregunta13.png)
+![Gráfico - Momentos más difíciles para mantener hábitos](imagenes/13preg.png)
 
 ---
 
 ### 14. ¿Qué herramientas externas usas actualmente para organizar tu alimentación o entrenamientos? (Múltiple) *
 
-![Gráfico - Herramientas externas usadas](imagenes/pregunta14.png)
+![Gráfico - Herramientas externas usadas](imagenes/14preg.png)
 
 ---
 
 ### 15. ¿Qué tipo de contenido te gustaría que la app incluyera además del seguimiento nutricional? (Múltiple) *
 
-![Gráfico - Contenido adicional preferido](imagenes/pregunta15.png)
+![Gráfico - Contenido adicional preferido](imagenes/15preg.png)
 
 ---
 
