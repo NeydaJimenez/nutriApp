@@ -130,3 +130,38 @@ Las tres apps analizadas son:
 - **API de alimentos/verificación de alimentos** para desarrolladores, lo que denota que tienen un backend robusto de datos nutricionales.
 ![Gráfico o imagen ilustrativa del análisis de FatSecret](imagenes/fatsecret-analisis.png)
 
+---
+
+### Cronometer
+
+#### Funcionalidades principales
+- Registro de alimentos con fuerte enfoque en nutrición micronutrientes (vitaminas, minerales), no solo macros.  
+  Por ejemplo: más de **84 nutrientes** rastreados.  
+- Base de datos de alimentos verificada (más de un millón de alimentos de fuentes confiables), lo cual mejora la precisión.  
+- Sincronización con otros dispositivos/apps para tener una visión holística de salud (actividad, biométricos, etc.).
+
+#### Experiencia de usuario
+- Muy valorada por usuarios que desean un nivel más “profundo” de análisis nutricional: ver no sólo calorías/macros sino también vitaminas y minerales.  
+- Interfaz quizá más “técnica” que apps más lúdicas/ligeras, lo cual puede intimidar a usuarios principiantes.  
+- Usuarios han señalado diferencias/correcciones necesarias en algunos datos bastante técnicos (micronutrientes), lo que requiere cierto conocimiento.
+
+#### Modelo de negocio
+- Versión gratuita con funciones básicas de registro de alimentos, macros y algunos micronutrientes.  
+- Versión **“Gold” o Pro** (suscripción) para profesionales de nutrición, exportación de datos, informes detallados e integración extendida.
+
+#### Puntos fuertes
+- Alta precisión y profundidad en datos nutricionales (micronutrientes).  
+- Buena para usuarios exigentes, dietas especializadas y profesionales de salud.  
+- Sincronización con otros sistemas de salud/dispositivos, lo que permite una visión más integral.
+
+#### Debilidades
+- Curva de aprendizaje para usuarios generales que solo quieren “contar calorías”.  
+- Versión gratuita limitada comparada con lo que ofrecen otras apps para registro básico.  
+- Algunas críticas de usuarios sobre discrepancias o necesidad de validar datos manualmente.
+
+#### Características innovadoras
+- Tracking de hasta **84 nutrientes** (vitaminas, minerales) además de macronutrientes.  
+- Sincronización con dispositivos/biométricos para tener vistas integradas de salud (más allá de solo comida).  
+- Diseño orientado tanto a usuario individual como a profesionales de nutrición (dietistas), con funcionalidades de exportación/informe.
+![Gráfico o imagen ilustrativa del análisis de Cronometer](imagenes/cronometer-analisis.png)
+
