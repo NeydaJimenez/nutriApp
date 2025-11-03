@@ -169,3 +169,201 @@ Las tres apps analizadas son:
 ## Tabla Comparativa de Aplicaciones de Nutrición
 ![Tabla comparativa o gráfico visual de las aplicaciones](imagenes/tabla-comparativa.png)
 
+---
+
+# 🥗 Necesidades para una Aplicación Nutricional
+
+**Objetivo:**  
+Descubrir las necesidades reales, frustraciones y expectativas de usuarios potenciales para diseñar una aplicación que realmente resuelva sus problemas.
+
+---
+
+📧 **Formulario creado por:** `23308060610175@cetis61.edu.mx`  
+*No compartido — versión de demostración.*
+
+---
+
+## 🧍‍♀️ Sección 1: Perfil y Objetivos del Usuario
+
+### 1. ¿Cuál es tu principal objetivo al considerar tu nutrición? *
+- Pérdida de Peso  
+- Ganancia Muscular  
+- Mejorar la Salud Digestiva  
+- Aumentar Energía / Vitalidad  
+- Controlar Condición Médica (diabetes, colesterol, etc.)  
+- Mantener Peso Actual  
+
+![Gráfico - Objetivo principal de nutrición](imagenes/pregunta1.png)
+
+---
+
+### 2. ¿Qué tan seguido piensas o te preocupas por tu alimentación?
+- Todos los Días  
+- 3–4 Veces por Semana  
+- Solo Ocasionalmente  
+- Casi Nunca  
+
+![Gráfico - Frecuencia de preocupación por la alimentación](imagenes/pregunta2.png)
+
+---
+
+## 📱 Sección 2: Experiencia con Apps Existentes (Dolor y Frustración)
+
+### 3. Si has usado apps de nutrición antes, ¿qué fue lo que MÁS te frustró? (Múltiple) *
+- Base de Datos Incompleta/Inexacta  
+- Demasiadas Funciones Premium/Pago  
+- Interfaz Confusa o Difícil de Usar  
+- No se Adapta a mis Necesidades Específicas  
+- El Registro de Alimentos Toma Demasiado Tiempo  
+- No Motiva o da Seguimiento  
+- Nunca he Usado Una  
+- Otro  
+
+![Gráfico - Principales frustraciones al usar apps](imagenes/pregunta3.png)
+
+---
+
+### 4. Si has usado apps de nutrición antes, ¿qué fue lo que MÁS te costó? *
+- Registrar/Contar Calorías  
+- Planificar las comidas de la semana  
+- Decidir qué comer en el momento  
+- Leer/Entender etiquetas nutricionales  
+- Preparar comidas saludables  
+- Hacer las compras  
+
+![Gráfico - Actividades más difíciles al usar apps](imagenes/pregunta4.png)
+
+---
+
+## ⚙️ Sección 3: Funcionalidades Específicas (Más Allá de lo Básico)
+
+### 5. De estas funcionalidades innovadoras, ¿cuáles te serían MÁS útiles? (Elige top 3) *
+- Escáner de Etiquetas: Tomar foto a un producto y que te lo analice  
+- Sugerencias en Tiempo Real: "¿Qué puedo comer ahora?" según tus metas  
+- Planificador Automático: Que genere un plan semanal completo de compras y recetas  
+- Modo "Día Ocupado": Un modo simplificado para días sin tiempo  
+- Seguimiento del Estado de Ánimo: Relacionar lo que comes con cómo te sientes  
+- Integración con Supermercados: Armar tu lista de compras directamente en la app  
+
+![Gráfico - Funcionalidades innovadoras preferidas](imagenes/pregunta5.png)
+
+---
+
+### 6. Imagina que la app pudiera resolver UN solo problema de tu día a día con la comida, ¿cuál sería? *
+
+![Gráfico - Problema principal que la app debería resolver](imagenes/pregunta6.png)
+
+---
+
+## 🍎 Sección 4: Personalización y Adaptación
+
+### 7. ¿Tu alimentación sigue algún régimen o tiene alguna restricción específica? (Múltiple) *
+- Vegetariano/Vegano  
+- Sin Gluten  
+- Sin Lactosa  
+- Low Carb/Keto  
+- Ayuno Intermitente  
+- Alergias Específicas  
+- Ninguna  
+
+![Gráfico - Tipos de régimen alimenticio](imagenes/pregunta7.png)
+
+---
+
+### 8. ¿Cómo te gustaría que la app se adaptara a tus progresos? *
+- Que se ajuste automáticamente mis planes  
+- Que me notifique y sugiera ajustes  
+- Prefiero yo tener el control  
+
+![Gráfico - Preferencias sobre adaptación de la app](imagenes/pregunta8.png)
+
+---
+
+## 💪 Sección 5: Motivación y Compromiso
+
+### 9. ¿Qué tipo de motivación funciona mejor para ti? *
+- Ver estadísticas y gráficos de progreso  
+- Logros, insignias o recompensas  
+- Recordatorios amigables y mensajes de ánimo  
+- Compartir progreso con una comunidad o amigos  
+
+![Gráfico - Tipo de motivación preferida](imagenes/pregunta9.png)
+
+---
+
+### 10. ¿Qué te haría abandonar una app de nutrición? (Múltiple) *
+- Que sea muy complicada o lenta  
+- Que no entienda mis necesidades personales  
+- Que no vea resultados  
+- Que me sienta juzgado o presionado  
+
+![Gráfico - Motivos de abandono de apps](imagenes/pregunta10.png)
+
+---
+
+## 👤 Sección 6: Información Demográfica (Opcional)
+
+### 11. Rango de edad *
+- Menos de 18  
+- 18–25  
+- 26–35  
+- 36–50  
+- Más de 50  
+
+![Gráfico - Distribución de edades](imagenes/pregunta11.png)
+
+---
+
+### 12. ¿Tienes alguna condición de salud que influya en tu dieta? *
+- Sí  
+- No  
+
+![Gráfico - Condiciones de salud que influyen en la dieta](imagenes/pregunta12.png)
+
+---
+
+## ⏰ Sección 7: Hábitos y Contexto Diario
+
+### 13. ¿En qué momento del día te resulta más difícil mantener tus hábitos alimenticios? *
+- Desayuno  
+- Almuerzo  
+- Cena  
+- Entre comidas  
+- Fin de semana  
+
+![Gráfico - Momentos más difíciles para mantener hábitos](imagenes/pregunta13.png)
+
+---
+
+### 14. ¿Qué herramientas externas usas actualmente para organizar tu alimentación o entrenamientos? (Múltiple) *
+- Hojas de cálculo o cuadernos  
+- Apps de ejercicio  
+- Apps de recetas  
+- Asesoramiento profesional (nutriólogo, entrenador)  
+- Ninguna  
+
+![Gráfico - Herramientas externas usadas](imagenes/pregunta14.png)
+
+---
+
+### 15. ¿Qué tipo de contenido te gustaría que la app incluyera además del seguimiento nutricional? (Múltiple) *
+- Consejos de alimentación y recetas saludables  
+- Artículos o videos educativos sobre nutrición  
+- Rutinas de ejercicio complementarias  
+- Espacios de comunidad o foros  
+- Seguimiento del estado de ánimo y bienestar general  
+
+![Gráfico - Contenido adicional preferido](imagenes/pregunta15.png)
+
+---
+
+## 🙌 ¡Gracias por tu ayuda!
+
+Tus respuestas serán clave para crear una herramienta que realmente entienda y ayude a las personas.
+
+---
+
+### 🔗 Formulario en línea
+[Haz clic aquí para responder la encuesta en Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSdGnig2Tn-q_5QgPFsWIAa-_4DuIz5GnUs4my5Lgvgvq7RnBQ/viewform?usp=sharing&ouid=110922887038578933095)
+
+
