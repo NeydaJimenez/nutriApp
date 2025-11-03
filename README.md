@@ -6,13 +6,16 @@ Hacer saber a la comunidad como cuidarse de manera saludable mediante una aplica
 ##### Nombre Completo:Jimenez Martinez Neyda Nahomi
 ###### Correo Electronico:[23308060610175@cetis61.edu.mx]
 ###### Institucion:[CETis61]
-![Nahomi J](imagenes/nah.png)
-
+<p align="center">
+  <img src="imagenes/nah.png" alt="Nahomi J" width="150">
+</p>
 
 #### Nombre completo:Rangel Palacios Brisa
 ##### correo Electronico:[23308060610256@cetis61.edu.mx]
 ###### Institucion:[CETis61]
-![Brisa R](imagenes/bri.png)
+<p align="center">
+  <img src="imagenes/bri.png" alt="Brisa R" width="150">
+</p>
 
 ###### Analisis de Base de Datos
 
