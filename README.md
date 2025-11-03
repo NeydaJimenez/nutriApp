@@ -165,3 +165,7 @@ Las tres apps analizadas son:
 - Diseño orientado tanto a usuario individual como a profesionales de nutrición (dietistas), con funcionalidades de exportación/informe.
 ![Gráfico o imagen ilustrativa del análisis de Cronometer](imagenes/cronometer-analisis.png)
 
+---
+## Tabla Comparativa de Aplicaciones de Nutrición
+![Tabla comparativa o gráfico visual de las aplicaciones](imagenes/tabla-comparativa.png)
+
