@@ -91,6 +91,7 @@ Las tres apps analizadas son:
 - Logging de comidas mediante escaneo de código de barras o búsqueda rápida.  
 - Planificador de comidas, listas de compra y recetas en la versión prémium.  
 - Integración con múltiples dispositivos/apps del ecosistema de salud/fitness.
+  
 ![Gráfico o imagen relacionada con el análisis de MyFitnessPal](imagenes/analisis-myfitnesspal.jpg)
 
 ---
@@ -128,6 +129,7 @@ Las tres apps analizadas son:
 - **Smart Food Scan** (foto del plato para estimar porciones y nutrientes) disponible en Premium.  
 - Enfoque en comunidad, logros y motivación diaria (“achievements & streaks”) para fomentar hábitos.  
 - **API de alimentos/verificación de alimentos** para desarrolladores, lo que denota que tienen un backend robusto de datos nutricionales.
+  
 ![Gráfico o imagen ilustrativa del análisis de FatSecret](imagenes/fatsecret-analisis.png)
 
 ---
@@ -163,6 +165,7 @@ Las tres apps analizadas son:
 - Tracking de hasta **84 nutrientes** (vitaminas, minerales) además de macronutrientes.  
 - Sincronización con dispositivos/biométricos para tener vistas integradas de salud (más allá de solo comida).  
 - Diseño orientado tanto a usuario individual como a profesionales de nutrición (dietistas), con funcionalidades de exportación/informe.
+  
 ![Gráfico o imagen ilustrativa del análisis de Cronometer](imagenes/cronometer-analisis.jpg)
 
 ---
